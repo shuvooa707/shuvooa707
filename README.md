@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on **i_Hire_Hub**
+- 🔭 I’m currently working on the project **i_Hire_Hub**
 
 - 🌱 I’m currently learning **Java**
 
