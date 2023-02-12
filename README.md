@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">IDEs:</h3>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg](https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" alt="PHPStorm" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/PhpStorm_Icon.svg" alt="PHPStorm" width="40" height="40"/> 
   </a>
