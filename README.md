@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on the project **i_Hire_Hub**
+- 🔭 I’m currently working on the project **Farny**
 
 - 🌱 I’m currently learning **Java**
 
@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  
-<a href="https://www.facebook.com/shuvosarker321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shuvosarker321" height="30" width="40"  /></a>
+  <a href="https://www.linkedin.com/in/shuvooa707" target="blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" height="30" width="40"  />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -55,7 +56,7 @@ Here are some ideas to get you started:
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
-  
+
   <a style="background:white;" href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.Js" width="40" height="40"/> 
   </a>
