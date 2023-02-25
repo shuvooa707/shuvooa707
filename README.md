@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   </a>
 
   <a style="background:white; display:inline-block;" href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.Js" width="40" height="40"/> 
+    <img src="https://velog.velcdn.com/images/tjseocld/post/10238718-d9c5-4fb7-a038-e38d221572ed/nextjs.png" alt="Next.Js" width="40" height="40"/> 
   </a>
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
