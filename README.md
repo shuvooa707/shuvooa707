@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center" style="margin-bottom:0px;">Hello, I am Shuvo 🙂, <small><small></h1>
+<h1 align="center" style="margin-bottom:0px;">Hello, I am Shuvo 🙂🙂, <small><small></h1>
 <h3 align="center" style="margin-top:0px;"> Junior Web Engineer⚡⚡ </h3>
 
 <p align="left"> 
@@ -22,13 +22,13 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on the project **MollyChat**(full-fledged WebCocket chat app)
+- 🔭🔭 I’m currently working on the project **MollyChat**(full-fledged WebSocket chat app)
 
-- 🌱 I’m currently learning **Java && SpringBoot ❤️**
+- 🌱🌱 I’m currently learning **Java && SpringBoot ❤️❤️**
 
-- 💬 Ask me about **PHP, Java, JavaScript, Laravel, MySQL, VueJs, ReactJs and NextJs**
+- 💬💬 Ask me about **PHP, Java, JavaScript, Laravel, MySQL, VueJs, ReactJs and NextJs**
 
-- 📫 How to reach me **shuvooa707@gmail.com**
+- 📫📫 How to reach me **shuvooa707@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
